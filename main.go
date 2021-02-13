@@ -16,4 +16,8 @@ func main() {
 	}
 
 	src.Listen()
-}
+}main()
+Func main(){
+CmdEntry := flag.string("entry", "0.1.0.2", ", " Boostrap n'ose IP adresse")
+
+
